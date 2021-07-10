@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Ipapi
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Prerequisites 
+
+### Install Node JS 
 
 ## Available Scripts
 
