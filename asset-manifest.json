@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ipapi/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ipapi/static/js/main.d3cf2bca.chunk.js",
+    "main.js.map": "/ipapi/static/js/main.d3cf2bca.chunk.js.map",
+    "runtime-main.js": "/ipapi/static/js/runtime-main.afb7646d.js",
+    "runtime-main.js.map": "/ipapi/static/js/runtime-main.afb7646d.js.map",
+    "static/js/2.d2765438.chunk.js": "/ipapi/static/js/2.d2765438.chunk.js",
+    "static/js/2.d2765438.chunk.js.map": "/ipapi/static/js/2.d2765438.chunk.js.map",
+    "static/js/3.6e4c6191.chunk.js": "/ipapi/static/js/3.6e4c6191.chunk.js",
+    "static/js/3.6e4c6191.chunk.js.map": "/ipapi/static/js/3.6e4c6191.chunk.js.map",
+    "index.html": "/ipapi/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ipapi/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d2765438.chunk.js.LICENSE.txt": "/ipapi/static/js/2.d2765438.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ipapi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afb7646d.js",
+    "static/js/2.d2765438.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d3cf2bca.chunk.js"
+  ]
+}
